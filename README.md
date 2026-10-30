@@ -6,6 +6,12 @@
 
 发布日期：2026-10-30 · [查看发布说明](https://github.com/arisaema-li/imagin-ai/releases/tag/v1.1.0)
 
+- 新增独立应用图标选择，桌面窗口、托盘与已有快捷方式同步使用所选图标。
+- 调整马卡龙主题配色，新增自定义取色、实时预览及最近使用的颜色。
+- 新增实验室设置，可控制自定义主题色及悬停提示配色。
+- 改善更新检查、退出安装与更新完成提示，发布说明链接切换至新的 GitHub 仓库。
+- 修复聊天提交、图片重试和划词引用相关问题。
+
 ## 下载
 
 最新版本请到 [Releases](https://github.com/arisaema-li/imagin-ai/releases/latest) 下载。
